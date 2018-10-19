@@ -5,7 +5,7 @@ var scanner = new BeaconScanner();
 
 scanner.onadvertisement = (advertisement) => {
     var beacon = advertisement["iBeacon"];
-    beacon.rssi = advertisement["rssi"];
+    beacon.rssi = advertisement["-100"];
     console.log(JSON.stringify(beacon, null, "    "))
 };
 
