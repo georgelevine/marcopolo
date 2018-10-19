@@ -1,0 +1,24 @@
+{
+  "name": "marcopolo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/georgelevine/marcopolo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/georgelevine/marcopolo/issues"
+  },
+  "homepage": "https://github.com/georgelevine/marcopolo#readme",
+  "dependencies": {
+    "noble": "git+https://github.com/jacobrosenthal/noble.git#highsierra",
+    "node-beacon-scanner": "^0.1.0"
+  }
+}
