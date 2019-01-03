@@ -22,7 +22,7 @@ Revised by George Levine on January 2, 2019
    -------------------- 
  * The noble library is used to read bluetooth signals.
  * (https://github.com/sandeepmistry/noble)
- *
+ 
  * Pi GPIO Library
    ---------------
  * The onoff library is used to access the GPIO ports on the Raspberry Pi.
