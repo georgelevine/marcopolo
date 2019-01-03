@@ -26,7 +26,7 @@ OS: Raspian 4.14.79-v7+
 
 Memory: SanDisk Class 10 micro-SD card (16GB)
 
-Vibration Feedback 
+Vibration Mechanism 
 ----------------
 Hardware: Mini Motor Disk 
 
