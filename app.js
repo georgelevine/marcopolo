@@ -8,7 +8,7 @@
 var RSSI_THRESHOLD    = -91
 var EXIT_GRACE_PERIOD = 3000; // milliseconds
 
->>>>>>> cc96de979398e4155d6860089441bd4a1c940cc4
+
 var inRange = [];
 
 var gpio = require('onoff').Gpio
