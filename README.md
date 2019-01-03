@@ -1,9 +1,8 @@
-# image-js
+# Marco Polo 
 
 [![NPM version][npm-image]][npm-url]
 [![build status][travis-image]][travis-url]
-[![Test coverage][codecov-image]][codecov-url]
-[![npm download][download-image]][download-url]
+
 
 A navagation system for visually impared students to find their classroom without an assistive aide. 
 
