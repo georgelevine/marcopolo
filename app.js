@@ -1,6 +1,5 @@
 /*
- 
-November 9th, 2018 
+ November 9th, 2018 
 
  * Development Stage: Alpha  
  * Script Name and Description: app.js is our implementation of a proximity-based feedback mechanism.
@@ -11,9 +10,9 @@ November 9th, 2018
  * Faculty Advisor:  Austin Purves, Ph.D.
 				Assistant Professor, Chair
 				Physics Department
-				Manhattanville College
-		
+				Manhattanville College		
 */
+
 var RSSI_THRESHOLD    = -91
 var EXIT_GRACE_PERIOD = 3000; // milliseconds
 
