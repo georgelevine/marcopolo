@@ -1,6 +1,6 @@
 # Marco Polo
-![NPM version][npm-image]
-![build status][travis-image]
+![NPM Version][npm-image]][npm-url]
+[![Build Status][travis-image]][travis-url]
 > Indoor Navigation For The Blind
 
 As an acessability advocate, programmer, and student,
@@ -220,5 +220,7 @@ $ sudo forever list
 ```
 
 
-[npm-image]: https://img.shields.io/npm/v/datadog-metrics.svg?style=flat-square
-[travis-image]: https://img.shields.io/travis/dbader/node-datadog-metrics/master.svg?style=flat-square
+[npm-image]: https://img.shields.io/npm/v/image-js.svg?style=flat-square
+[npm-url]: https://www.npmjs.com/package/image-js
+[travis-image]: https://img.shields.io/travis/image-js/image-js/master.svg?style=flat-square
+[travis-url]: https://travis-ci.org/image-js/image-js
