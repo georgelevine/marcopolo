@@ -1,5 +1,8 @@
 # Marco Polo – A Bluetooth LE proximity detection system
 
+[![NPM Version][npm-image]][npm-url]
+[![Build Status][travis-image]][travis-url]
+[![Downloads Stats][npm-downloads]][npm-url]
 
  November 9th, 2018 
  -------------------- 
