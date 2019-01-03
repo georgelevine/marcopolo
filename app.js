@@ -1,4 +1,4 @@
-/**
+/*
  
 November 9th, 2018 
 
@@ -12,9 +12,8 @@ November 9th, 2018
 				Assistant Professor, Chair
 				Physics Department
 				Manhattanville College
-				
-------------------------------------------------------
-
+		
+*/
 var RSSI_THRESHOLD    = -91
 var EXIT_GRACE_PERIOD = 3000; // milliseconds
 
