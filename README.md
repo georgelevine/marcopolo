@@ -1,5 +1,5 @@
 # Marco Polo 
-> Indoor navigation for the blind
+> A Classroom Finder For The Blind
 [![NPM version][npm-image]][npm-url]
 [![build status][travis-image]][travis-url]
 
