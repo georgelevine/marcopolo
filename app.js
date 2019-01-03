@@ -8,26 +8,12 @@ November 9th, 2018
 
  * Developers:  Brandon Neff, Zach Rowell, Alegria Haro, George Levine
  
- * Supervisor:  Austin Purves, Ph.D.
+ * Faculty Advisor:  Austin Purves, Ph.D.
 				Assistant Professor, Chair
 				Physics Department
 				Manhattanville College
 				
- * Forked Source From (GitHub): https://github.com/cruepprich/gateOpener/blob/master/gate.js
- * License: GNU General Public License, version 3 (GPLv3)
-
-   Pi Bluetooth Library
-   -------------------- 
- * The noble library is used to read bluetooth signals.
- * (https://github.com/sandeepmistry/noble)
- *
- * Pi GPIO Library
-   ---------------
- * The onoff library is used to access the GPIO ports on the Raspberry Pi.
- * https://github.com/fivdi/onoff
- 
- **/
-
+------------------------------------------------------
 
 var RSSI_THRESHOLD    = -91
 var EXIT_GRACE_PERIOD = 3000; // milliseconds
