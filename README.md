@@ -27,6 +27,3 @@ Revised by George Levine on January 2, 2019
    ---------------
  * The onoff library is used to access the GPIO ports on the Raspberry Pi.
  * https://github.com/fivdi/onoff
- 
- **/
-
