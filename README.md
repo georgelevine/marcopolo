@@ -11,12 +11,11 @@ I was driven to help visually impared students quickly and independently find an
 Hardware
 =============== 
 
-Beacon: Adafruit Feather nRF52 Bluefruit LE
+## Beacon: Adafruit Feather nRF52 Bluefruit LE
 
+## Reciever: Raspberry Pi 3 (A+, B, B+) Raspberry Pi Zero W
 
-
-Reciever: Raspberry Pi 3 (A+, B, B+) Raspberry Pi Zero W
-	Memory: SanDisk Class 10 micro-SD card (16GB)
+### Memory: SanDisk Class 10 micro-SD card (16GB)
 
    Pi Bluetooth Library
    -------------------- 
