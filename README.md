@@ -64,13 +64,11 @@ Configuration: iBeacon
 
 Project Background Info
 =======================
+Developers: George Levine, Brandon Neff, Zach Rowell
 
- 
-  Developers: George Levine, Brandon Neff, Zach Rowell
- 
-  Faculty Advisor:  Austin Purves, Ph.D.
-Developers:  George Levine, Brandon Neff, Zach Rowell
-  Funding : Manhattanville College
+Faculty Advisor:  Austin Purves, Ph.D.
+
+Funding : Manhattanville College
  
 ## License
 
