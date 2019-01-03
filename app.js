@@ -1,9 +1,8 @@
 /*
 
  Developers:  George Levine, Brandon Neff, Zach Rowell
- Faculty Advisor:  Austin Purves, Ph.D.
+ Faculty Advisor:  Austin Purves, Ph.D.	
  
-				
 */
 
 var RSSI_THRESHOLD    = -91
