@@ -8,31 +8,27 @@
 As an acessability advocate, programmer, and student,
 I was driven to help visually impared students quickly and independently find any classroom within campus academic buildings. The Center for Student Accomodations at Manhattanville College in Purchase, NY was overwhelmed with travel aid requests and was in need of either hiring additional aides or finding an alternative solution to the issue at hand. I was knowledgable about bluetooth low energy beacons. I led the hardware and software development to build a working navigational aid prototype that incorporated varying hardware systems, programming languages, and communication protocols. Final testing was conducted by a visually impared student. The system is accurate within a 1 meter radius of any programmed classroom. 
 
-Hardware
+Components
 ==============
 
-###Transmitter
-
-## Beacon 
--------------
+Bluetooth Transmitter
+--------------------
 Hardware: Arduino IDE Adafruit Feather nRF52 Bluefruit LE
 
 Bootloader: s132 6.1.1 r0, Level 0 (Release) 
 
 Programmer: Arduino as ISP
 
-### Wearable Reciever
 
-## Computation
--------------
+Wearable Reciever
+----------------
 Hardware: Raspberry Pi 3 Model B+
-
 OS: Raspian 4.14.79-v7+ 
-
 Memory: SanDisk Class 10 micro-SD card (16GB)
 
-## Vibration Mini Motor Disk 
--------------
+# Haptic Feedback 
+
+Hardware: Vibration Mini Motor Disk 
 Location: Reciever GPIO pin 17
 Size: 10mm diameter, 2.7mm thick
 Current draw: 5V @ 100mA
