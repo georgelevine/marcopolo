@@ -1,6 +1,6 @@
 # Marco Polo – A Bluetooth LE proximity detection system
 
-/*
+
  November 9th, 2018 
  * Development Stage: Alpha  
  * Script Name and Description: app.js is our implementation of a proximity-based feedback mechanism.
@@ -11,7 +11,7 @@
 				Assistant Professor, Chair
 				Physics Department
 				Manhattanville College		
-*/
+
  
 Revised by George Levine on January 2, 2019
 
