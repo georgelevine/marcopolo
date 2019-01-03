@@ -2,8 +2,7 @@
  
 Revised by George Levine on January 2, 2019
 
- * Development Stage: Beta  
- * Script Name and Description: app.js is our implementation of a proximity-based feedback mechanism.
+ * Source Script Info: app.js is our implementation of a proximity-based feedback mechanism.
  * Developed for PHY.4000-Electronics Prototyping at Manhattanville College
 
  * Developers:  Brandon Neff, Zach Rowell, Alegria Haro, George Levine
@@ -39,20 +38,10 @@ Goals
 2. Automatically configure other useful things such as Logrotation scripts, port monitoring scripts etc.
 3. Graceful shutdown of services as default behaviour.
 
-Platforms supported
+Platform Used
 -------------------
-* Amazon Linux
-* Redhat Linux
-* CentOS
-* Ubuntu (upstart, sysv fallback for >= 15.04, no systemd support)
-* Debian
 * Raspbian
-* OSMC Linux
-* Fedora 21
-* Oracle Linux
-* Elementary OS
-* BunsenLabs
-* more to come..
+
 
 Prerequisite
 ------------
