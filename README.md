@@ -1,6 +1,7 @@
 # Marco Polo 
-> Classroom Navigation For The Blind
-	[![NPM version][npm-image]][npm-url]
+> Classroom Navigation For The Blind 
+
+[![NPM version][npm-image]][npm-url]
 [![build status][travis-image]][travis-url]
 
 
