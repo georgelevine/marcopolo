@@ -3,8 +3,8 @@
 [![build status][travis-image]][travis-url] 
 > Classroom Navigation For The Blind 
 
-A navagation system for visually impared students to find their classroom without an assistive aide. 
-
+As an acessability advocate, programmer, and student,
+I was driven to help visually impared students quickly and independently find any classroom within campus academic buildings. The Center for Student Accomodations was overwhelmed with travel aid requests and was in need of either hiring additional aides or finding an alternative solution to the issue at hand. I was knowledgable about bluetooth low energy beacons. I led the hardware and software development to build a working navigational aid prototype that incorporated varying hardware systems, programming languages, and communication protocols. Final testing was conducted by a visually impared student. The system is accurate within a 1 meter radius of any programmed classroom. 
 
  November 9th, 2018 
  -------------------- 
