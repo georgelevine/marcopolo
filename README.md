@@ -69,7 +69,7 @@ Faculty Advisor:  Austin Purves, Ph.D.
 
 Funding : Manhattanville College
  
-#### License
+### License
 [MIT](./LICENSE)
 
 [travis-image]: https://img.shields.io/travis/image-js/image-js/master.svg?style=flat-square
