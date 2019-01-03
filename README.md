@@ -5,6 +5,9 @@
 [![Test coverage][codecov-image]][codecov-url]
 [![npm download][download-image]][download-url]
 
+A navagation system for visually impared students to find their classroom without an assistive aide. 
+
+![](header.png)
  November 9th, 2018 
  -------------------- 
   Development Stage: Alpha  
