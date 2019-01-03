@@ -54,11 +54,6 @@ Weight: 0.9 gram
 Make node (app.js) run on startup.
 
 
-Platform Used
--------------------
-* Raspbian
-
-
 Prerequisite
 ------------
 forever must be installed globally using 
