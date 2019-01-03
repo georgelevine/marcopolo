@@ -1,4 +1,4 @@
-# Marco Polo 
+# Marco Polo
 [![NPM version][npm-image]][npm-url]
 [![build status][travis-image]][travis-url] 
 > Indoor Navigation For The Blind
@@ -6,9 +6,9 @@
 As an acessability advocate, programmer, and student,
 I was driven to help visually impared students quickly and independently find any classroom within campus academic buildings. The Center for Student Accomodations at Manhattanville College in Purchase, NY was overwhelmed with travel aid requests and was in need of either hiring additional aides or finding an alternative solution to the issue at hand. I was knowledgable about bluetooth low energy beacons. I led the hardware and software development to build a working navigational aid prototype that incorporated varying hardware systems, programming languages, and communication protocols. Final testing was conducted by a visually impared student. The system is accurate within a 1 meter radius of any programmed classroom. 
 
- November 9th, 2018 
+ Development Information
  -------------------- 
-  Development Stage: Alpha  
+
   Script Name and Description: app.js is our implementation of a proximity-based feedback mechanism.
   Developed for PHY.4000-Electronics Prototyping at Manhattanville College
   Developers:  Brandon Neff, Zach Rowell, Alegria Haro, George Levine
@@ -219,10 +219,6 @@ This command will stop service if running, clean up all provisioned files and se
 $ sudo forever list
 ```
 
-<!-- Markdown link & img dfn's -->
+
 [npm-image]: https://img.shields.io/npm/v/datadog-metrics.svg?style=flat-square
-[npm-url]: https://npmjs.org/package/datadog-metrics
-[npm-downloads]: https://img.shields.io/npm/dm/datadog-metrics.svg?style=flat-square
 [travis-image]: https://img.shields.io/travis/dbader/node-datadog-metrics/master.svg?style=flat-square
-[travis-url]: https://travis-ci.org/dbader/node-datadog-metrics
-[wiki]: https://github.com/yourname/yourproject/wiki
