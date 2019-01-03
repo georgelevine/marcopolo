@@ -26,10 +26,10 @@ Hardware: Raspberry Pi 3 Model B+
 OS: Raspian 4.14.79-v7+ 
 Memory: SanDisk Class 10 micro-SD card (16GB)
 
-# Haptic Feedback 
-
-Hardware: Vibration Mini Motor Disk 
-Location: Reciever GPIO pin 17
+Vibration Feedback 
+----------------
+Hardware: Mini Motor Disk 
+Location: Wearable Reciever GPIO pin 17
 Size: 10mm diameter, 2.7mm thick
 Current draw: 5V @ 100mA
 Weight: 0.9 gram
@@ -37,6 +37,9 @@ Weight: 0.9 gram
 
    Reciever Bluetooth Library
    -------------------- 
+   
+   # ![noble](https://github.com/noble/noble/blob/master/assets/noble-logo.png)
+
  * The noble library is used to read bluetooth signals.
  * (https://github.com/sandeepmistry/noble)
  
