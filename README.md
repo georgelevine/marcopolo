@@ -11,18 +11,23 @@ I was driven to help visually impared students quickly and independently find an
 Hardware
 =============== 
 
-## Beacon: Adafruit Feather nRF52 Bluefruit LE
+Beacon: Arduino IDE Adafruit Feather nRF52 Bluefruit LE
+* 
 
-## Reciever: Raspberry Pi 3 (A+, B, B+) Raspberry Pi Zero W
+Reciever
+-------------
+Hardware: Raspberry Pi 3 Model B+
 
-### Memory: SanDisk Class 10 micro-SD card (16GB)
+OS: Raspian 4.14.79-v7+ 
 
-   Pi Bluetooth Library
+Memory: SanDisk Class 10 micro-SD card (16GB)
+
+   Reciever Bluetooth Library
    -------------------- 
  * The noble library is used to read bluetooth signals.
  * (https://github.com/sandeepmistry/noble)
  
- * Pi GPIO Library
+ * Reciever GPIO Library
    ---------------
  * The onoff library is used to access the GPIO ports on the Raspberry Pi.
  * https://github.com/fivdi/onoff
