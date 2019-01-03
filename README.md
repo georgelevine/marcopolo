@@ -62,7 +62,7 @@ Function: Parses the Bluetooth beacon packet data according to the iBeacon proto
 Configuration: iBeacon
 
 
-Project Background Info
+Contributors
 =======================
 Developers: George Levine, Brandon Neff, Zach Rowell
 
