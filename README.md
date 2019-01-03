@@ -1,5 +1,4 @@
 # Marco Polo Proximity Detection System
-![NPM version][npm-image]
 ![build status][travis-image]
 
 
@@ -70,9 +69,7 @@ Faculty Advisor:  Austin Purves, Ph.D.
 
 Funding : Manhattanville College
  
-## License
-
+# License
 [MIT](./LICENSE)
 
-[npm-image]: https://img.shields.io/npm/v/image-js.svg?style=flat-square
 [travis-image]: https://img.shields.io/travis/image-js/image-js/master.svg?style=flat-square
