@@ -1,4 +1,4 @@
-# MarcoPolo – Bluetooth LE proximity detection system
+# MarcoPolo – A Bluetooth LE proximity detection system
  
 Revised by George Levine on January 2, 2019
 
