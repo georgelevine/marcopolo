@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /**
  
 November 9th, 2018 
@@ -32,6 +33,18 @@ November 9th, 2018
 var RSSI_THRESHOLD    = -91
 var EXIT_GRACE_PERIOD = 3000; // milliseconds
 
+=======
+/*
+
+ Developers:  George Levine, Brandon Neff, Zach Rowell
+ Faculty Advisor:  Austin Purves, Ph.D.	
+ 
+*/
+
+var RSSI_THRESHOLD    = -91
+var EXIT_GRACE_PERIOD = 3000; // milliseconds
+
+>>>>>>> cc96de979398e4155d6860089441bd4a1c940cc4
 var inRange = [];
 
 var gpio = require('onoff').Gpio
