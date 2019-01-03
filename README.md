@@ -1,4 +1,4 @@
-# Marco Polo Proximity Detection System
+# Marco Polo
 ![build status][travis-image]
 
 
