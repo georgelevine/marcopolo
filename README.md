@@ -65,8 +65,8 @@ Configuration: iBeacon
 Project Background Info
 =======================
 
-  Developed for PHY.4000-Electronics Prototyping at Manhattanville College
-  Developers:  Brandon Neff, Zach Rowell, Alegria Haro, George Levine
+ 
+  Developers: George Levine, Brandon Neff, Zach Rowell
  
   Faculty Advisor:  Austin Purves, Ph.D.
 				Assistant Professor, Chair
@@ -75,9 +75,9 @@ Project Background Info
 
 
 
- * Developed for PHY.4000-Electronics Prototyping at Manhattanville College
+ Location: Manhattanville College
 
- * Developers:  George Levine, Brandon Neff, Zach Rowell
+ Developers:  George Levine, Brandon Neff, Zach Rowell
  
  
 ## License
