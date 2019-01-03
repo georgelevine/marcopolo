@@ -2,7 +2,7 @@
  
 Revised by George Levine on January 2, 2019
 
- * Development Stage: Alpha  
+ * Development Stage: Beta  
  * Script Name and Description: app.js is our implementation of a proximity-based feedback mechanism.
  * Developed for PHY.4000-Electronics Prototyping at Manhattanville College
 
