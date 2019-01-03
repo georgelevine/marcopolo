@@ -11,7 +11,7 @@ I was driven to help visually impared students quickly and independently find an
 Components
 ==============
 
-Bluetooth Transmitter
+Bluetooth Beacon
 --------------------
 Hardware: Arduino IDE Adafruit Feather nRF52 Bluefruit LE
 
