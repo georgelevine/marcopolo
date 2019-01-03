@@ -14,21 +14,29 @@ Components
 Bluetooth Beacon
 --------------------
 Hardware: Arduino IDE Adafruit Feather nRF52 Bluefruit LE
+
 Bootloader: s132 6.1.1 r0, Level 0 (Release) 
+
 Programmer: Arduino as ISP
 
 Wearable Reciever
 ----------------
 Hardware: Raspberry Pi 3 Model B+
+
 OS: Raspian 4.14.79-v7+ 
+
 Memory: SanDisk Class 10 micro-SD card (16GB)
 
 Vibration Feedback 
 ----------------
 Hardware: Mini Motor Disk 
+
 Location: Wearable Reciever GPIO pin 17
+
 Size: 10mm diameter, 2.7mm thick
+
 Current draw: 5V @ 100mA
+
 Weight: 0.9 gram
 
 
@@ -63,16 +71,11 @@ Project Background Info
 				Manhattanville College		
 
 
- * Source Script Info: app.js is our implementation of a proximity-based feedback mechanism.
+
  * Developed for PHY.4000-Electronics Prototyping at Manhattanville College
 
  * Developers:  George Levine, Brandon Neff, Zach Rowell
  
- * Supervisor:  Austin Purves, Ph.D.
-				Assistant Professor, Chair
-				Physics Department
-				Manhattanville College
-				
  
 ## License
 
