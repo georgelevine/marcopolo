@@ -1,6 +1,6 @@
 # Marco Polo
-[![NPM version][npm-image]
-[![build status][travis-image]
+![NPM version][npm-image]
+![build status][travis-image]
 
 
 > Indoor Navigation For The Blind
