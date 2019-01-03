@@ -69,16 +69,8 @@ Project Background Info
   Developers: George Levine, Brandon Neff, Zach Rowell
  
   Faculty Advisor:  Austin Purves, Ph.D.
-			-> Assistant Professor, Chair
-			Physics Department
-			Manhattanville College		
-
-
-
- Location: Manhattanville College
-
- Developers:  George Levine, Brandon Neff, Zach Rowell
- 
+Developers:  George Levine, Brandon Neff, Zach Rowell
+  Funding : Manhattanville College
  
 ## License
 
