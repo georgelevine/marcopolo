@@ -8,33 +8,7 @@
 As an acessability advocate, programmer, and student,
 I was driven to help visually impared students quickly and independently find any classroom within campus academic buildings. The Center for Student Accomodations at Manhattanville College in Purchase, NY was overwhelmed with travel aid requests and was in need of either hiring additional aides or finding an alternative solution to the issue at hand. I was knowledgable about bluetooth low energy beacons. I led the hardware and software development to build a working navigational aid prototype that incorporated varying hardware systems, programming languages, and communication protocols. Final testing was conducted by a visually impared student. The system is accurate within a 1 meter radius of any programmed classroom. 
 
- Development Information
- -------------------- 
-
-  Script Name and Description: app.js is our implementation of a proximity-based feedback mechanism.
-  Developed for PHY.4000-Electronics Prototyping at Manhattanville College
-  Developers:  Brandon Neff, Zach Rowell, Alegria Haro, George Levine
  
-  Faculty Advisor:  Austin Purves, Ph.D.
-				Assistant Professor, Chair
-				Physics Department
-				Manhattanville College		
-
- 
-Revised by George Levine on January 2, 2019
-
- * Source Script Info: app.js is our implementation of a proximity-based feedback mechanism.
- * Developed for PHY.4000-Electronics Prototyping at Manhattanville College
-
- * Developers:  Brandon Neff, Zach Rowell, Alegria Haro, George Levine
- 
- * Supervisor:  Austin Purves, Ph.D.
-				Assistant Professor, Chair
-				Physics Department
-				Manhattanville College
-				
- * Forked Source From (GitHub): https://github.com/cruepprich/gateOpener/blob/master/gate.js
- * License: GNU General Public License, version 3 (GPLv3)
 
    Pi Bluetooth Library
    -------------------- 
@@ -220,7 +194,34 @@ This command will stop service if running, clean up all provisioned files and se
 ```
 $ sudo forever list
 ```
+Development Information
+ -------------------- 
 
+  Script Name and Description: app.js is our implementation of a proximity-based feedback mechanism.
+  Developed for PHY.4000-Electronics Prototyping at Manhattanville College
+  Developers:  Brandon Neff, Zach Rowell, Alegria Haro, George Levine
+ 
+  Faculty Advisor:  Austin Purves, Ph.D.
+				Assistant Professor, Chair
+				Physics Department
+				Manhattanville College		
+
+ 
+Revised by George Levine on January 2, 2019
+
+ * Source Script Info: app.js is our implementation of a proximity-based feedback mechanism.
+ * Developed for PHY.4000-Electronics Prototyping at Manhattanville College
+
+ * Developers:  Brandon Neff, Zach Rowell, Alegria Haro, George Levine
+ 
+ * Supervisor:  Austin Purves, Ph.D.
+				Assistant Professor, Chair
+				Physics Department
+				Manhattanville College
+				
+ * Forked Source From (GitHub): https://github.com/cruepprich/gateOpener/blob/master/gate.js
+ * License: GNU General Public License, version 3 (GPLv3)
+ 
 ## License
 
 [MIT](./LICENSE)
