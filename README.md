@@ -1,8 +1,9 @@
 # Marco Polo 
+[![NPM version][npm-image]][npm-url]
+[![build status][travis-image]][travis-url] 
+
 > Classroom Navigation For The Blind 
 
-[![NPM version][npm-image]][npm-url]
-[![build status][travis-image]][travis-url]
 
 
 A navagation system for visually impared students to find their classroom without an assistive aide. 
