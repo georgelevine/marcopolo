@@ -14,11 +14,8 @@ Components
 Bluetooth Beacon
 --------------------
 Hardware: Arduino IDE Adafruit Feather nRF52 Bluefruit LE
-
 Bootloader: s132 6.1.1 r0, Level 0 (Release) 
-
 Programmer: Arduino as ISP
-
 
 Wearable Reciever
 ----------------
@@ -35,49 +32,28 @@ Current draw: 5V @ 100mA
 Weight: 0.9 gram
 
 
-   Reciever Bluetooth Library
-   -------------------- 
-   
-   # ![noble](https://github.com/noble/noble/blob/master/assets/noble-logo.png)
-
- * The noble library is used to read bluetooth signals.
- * (https://github.com/sandeepmistry/noble)
+ noble
+ -------------------- 
+ Function: Enables Raspberry Pi to read surrounding bluetooth signals.
  
- * Reciever GPIO Library
-   ---------------
- * The onoff library is used to access the GPIO ports on the Raspberry Pi.
- * https://github.com/fivdi/onoff
+ onoff
+ -------------
+ Function: Library to access the GPIO ports on the Raspberry Pi.
+
  
- Forever-Service
-===============
+forever-Service
+----------------
+Function: ensures node (app.js) runs on startup.
 
-Make node (app.js) run on startup.
-
-iBeacon Scanning
-===============
+node-beacon-scanner
+------------------
 Function: Parses the Bluetooth beacon packet data according to the iBeacon protocol. 
-Depencency: node-beacon-scanner
 Configuration: iBeacon
 
 
-Forever Service 
------------------
-Function: Automatically starts program script when reciever is powered.
-
-Install Forever
------------------
-
-```npm install -g forever```
-
-Add as Service
--------
-```npm install -g forever-service```
-
-
-Development Information
+Project Background Info
 =======================
 
-  Script Name and Description: app.js is our implementation of a proximity-based feedback mechanism.
   Developed for PHY.4000-Electronics Prototyping at Manhattanville College
   Developers:  Brandon Neff, Zach Rowell, Alegria Haro, George Levine
  
@@ -86,21 +62,17 @@ Development Information
 				Physics Department
 				Manhattanville College		
 
- 
-Revised by George Levine on January 2, 2019
 
  * Source Script Info: app.js is our implementation of a proximity-based feedback mechanism.
  * Developed for PHY.4000-Electronics Prototyping at Manhattanville College
 
- * Developers:  Brandon Neff, Zach Rowell, Alegria Haro, George Levine
+ * Developers:  George Levine, Brandon Neff, Zach Rowell
  
  * Supervisor:  Austin Purves, Ph.D.
 				Assistant Professor, Chair
 				Physics Department
 				Manhattanville College
 				
-
- * License: GNU General Public License, version 3 (GPLv3)
  
 ## License
 
