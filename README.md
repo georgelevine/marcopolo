@@ -2,7 +2,7 @@
 ![build status][travis-image]
 
 
-> An ulta low-cost, wearable navigational tool for the blind
+> An ultra low-cost, wearable navigational tool for the blind
 
 As an acessability advocate, programmer, and student,
 I was driven to help visually impared students quickly and independently find any classroom within campus academic buildings. The Center for Student Accomodations at Manhattanville College in Purchase, NY was overwhelmed with travel aid requests and was in need of either hiring additional aides or finding an alternative solution to the issue at hand. I was knowledgable about bluetooth low energy beacons. I led the hardware and software development to build a working navigational aid prototype that incorporated varying hardware systems, programming languages, and communication protocols. Final testing was conducted by a visually impared student. The system is accurate within a 1 meter radius of any programmed classroom. 
@@ -69,7 +69,7 @@ Faculty Advisor:  Austin Purves, Ph.D.
 
 Funding : Manhattanville College
  
-# License
+### License
 [MIT](./LICENSE)
 
 [travis-image]: https://img.shields.io/travis/image-js/image-js/master.svg?style=flat-square
