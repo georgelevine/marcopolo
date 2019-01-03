@@ -40,6 +40,9 @@ Current draw: 5V @ 100mA
 Weight: 0.9 gram
 
 
+Dependencies
+=============
+
  noble
  -------------------- 
  Function: Enables Raspberry Pi to read surrounding bluetooth signals.
