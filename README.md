@@ -51,7 +51,7 @@ Dependencies
  Function: Library to access the GPIO ports on the Raspberry Pi.
 
  
-forever-Service
+forever-service
 ----------------
 Function: ensures node (app.js) runs on startup.
 
