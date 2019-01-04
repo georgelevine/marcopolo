@@ -56,13 +56,13 @@ Prerequisites
  Function: Enables Raspberry Pi to read surrounding bluetooth signals.
  See [[noble]](https://github.com/noble/noble) for installation help.
 
-onoff
--------------
+### onoff
  Function: GPIO access for Raspberry Pi.
 
 ### node-beacon-scanner
-Function: Parses the Bluetooth beacon packet data according to the iBeacon protocol.
-Configuration: iBeacon
+Function: Parses the Bluetooth beacon packet data.
+
+---------------------------------
 
 # Optional
 
