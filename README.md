@@ -64,7 +64,7 @@ Dependencies
 
  onoff
  -------------
- Function: Library to access the GPIO ports on the Raspberry Pi.
+ Function: Library to access the GPIO ports on the Rtoaspberry Pi.
  
  node-beacon-scanner
 ------------------
@@ -91,8 +91,10 @@ Funding : Manhattanville College
 ## Credits
 
 A special thanks to [@cruepprich](https://github.com/cruepprich/gateOpener) you 
+
 showed us that bluetooth low energy has pratical applications, and
-that the raspberry pi can indeed have an interface with to bluetooth and GPIO pins.
+
+that the raspberry pi can indeed have an interface to control bluetooth and GPIO pins.
 
 ### License
 [MIT](./LICENSE)
