@@ -47,7 +47,7 @@ Function: Mechanical User Alert
 Location: Afixed to Wearable Reciever GPIO pin 17\
 Size: 10mm diameter, 2.7mm thick\
 Current draw: 5V @ 100mA\
-Weight: 0.9 gram\
+Weight: 0.9 gram
 
 # Flashing Sketch
 
