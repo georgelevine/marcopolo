@@ -26,38 +26,41 @@ A system restart may be necessary.
 
 # Hardware
 
-Bluetooth Beacon
+Beacon
 --------------------
 Hardware: Arduino IDE Adafruit Feather nRF52 Bluefruit LE\
+Function: Bluetooth LE Output Broadcast\
 Bootloader: s132 6.1.1 r0, Level 0 (Release)\
 Programmer: Arduino as ISP
 
-Wearable Reciever
+Wearable
 ----------------
 Hardware: Raspberry Pi 3 Model B+\
+Functon: Gateway Reciever\
 OS: Raspian 4.14.79-v7+\
 Memory: SanDisk Class 10 micro-SD card (16GB)
 
-Vibration Mechanism
+Vibration
 ----------------
 Hardware: Mini Motor Disk\
-Location: Wearable Reciever GPIO pin 17\
+Function: Mechanical User Alert 
+Location: Afixed to Wearable Reciever GPIO pin 17\
 Size: 10mm diameter, 2.7mm thick\
 Current draw: 5V @ 100mA\
 Weight: 0.9 gram\
 
-Dependencies
+Prerequisites
 =============
 
-# ![noble](assets/noble-logo.png)
- --------------------
+noble
+--------------------
  Function: Enables Raspberry Pi to read surrounding bluetooth signals.
 
- onoff
- -------------
- Function: Library to access the GPIO ports on the Raspberry Pi.
+onoff
+-------------
+ Function: GPIO access for Raspberry Pi.
 
- node-beacon-scanner
+node-beacon-scanner
 ------------------
 Function: Parses the Bluetooth beacon packet data according to the iBeacon protocol.
 Configuration: iBeacon
