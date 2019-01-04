@@ -79,7 +79,7 @@ Developers: George Levine, Brandon Neff, Zach Rowell
 
 Faculty Advisor:  Austin Purves, Ph.D.
 
-Funding : Manhattanville College
+Affilation: Manhattanville College
 
 ### Credits
 
