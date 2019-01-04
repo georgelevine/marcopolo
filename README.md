@@ -21,7 +21,7 @@ node -v
 ```
 npm -v
 ```
-If not installed, download and run the node installer https://nodejs.org/en/download
+If not installed, download and run the node installer https://nodejs.org/en/download  
 A system restart may be necessary.
 
 # Hardware
@@ -51,8 +51,8 @@ Weight: 0.9 gram\
 
 # Flashing Sketch
 
-[Download Arduino IDE] (https://www.arduino.cc/en/Main/Software)\
-Driver: `Add `(https://www.adafruit.com/package_adafruit_index.json as an 'Additional Board Manager URL)' (see image below)`
+Environment: [Arduino IDE] (https://www.arduino.cc/en/Main/Software)\
+Bluefruit Driver: Add 'https://www.adafruit.com/package_adafruit_index.json as an Additional Board Manager URL'
 
 # Prerequisites
 ### noble
