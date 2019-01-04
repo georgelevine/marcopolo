@@ -75,7 +75,7 @@ Configuration: iBeacon
 
 forever-service
 ----------------
-Function: ensures node (app.js) runs on startup.
+Function: enables app.js to run on startup
 
 
 
@@ -87,6 +87,12 @@ Developers: George Levine, Brandon Neff, Zach Rowell
 Faculty Advisor:  Austin Purves, Ph.D.
 
 Funding : Manhattanville College
+
+## Credits
+
+A special thanks to [@cruepprich](https://github.com/cruepprich/gateOpener) you 
+showed us that bluetooth low energy has pratical applications, and
+that the raspberry pi can indeed have an interface with to bluetooth and GPIO pins.
 
 ### License
 [MIT](./LICENSE)
