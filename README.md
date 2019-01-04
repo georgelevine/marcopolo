@@ -7,12 +7,13 @@
 As an acessability advocate, programmer, and student,
 I was driven to help visually impared students quickly and independently find any classroom within campus academic buildings. The Center for Student Accomodations at Manhattanville College in Purchase, NY was overwhelmed with travel aid requests and was in need of either hiring additional aides or finding an alternative solution to the issue at hand. I was knowledgable about bluetooth low energy beacons. I led the hardware and software development to build a working navigational aid prototype that incorporated varying hardware systems, programming languages, and communication protocols. Final testing was conducted by a visually impared student. The system is accurate within a 1 meter radius of any programmed classroom.
 
-##Installation
+## Installation
 
 ```Bash
-`git@github.com:georgelevine/marcopolo.git`
-Components
+git@github.com:georgelevine/marcopolo.git
+
 ```
+Components
 ==============
 
 Bluetooth Beacon
