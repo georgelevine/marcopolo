@@ -28,8 +28,7 @@ A system restart may be necessary.
 
 Bluetooth Beacon
 --------------------
-Hardware: Arduino IDE Adafruit Feather nRF52 Bluefruit LE
-
+Hardware: Arduino IDE Adafruit Feather nRF52 Bluefruit LE\
 Bootloader: s132 6.1.1 r0, Level 0 (Release)
 
 Programmer: Arduino as ISP
