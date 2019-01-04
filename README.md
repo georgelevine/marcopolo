@@ -55,7 +55,7 @@ Dependencies
 
  onoff
  -------------
- Function: Library to access the GPIO ports on the Rtoaspberry Pi.
+ Function: Library to access the GPIO ports on the Raspberry Pi.
 
  node-beacon-scanner
 ------------------
