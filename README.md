@@ -24,6 +24,7 @@ npm -v
 If not installed, download and run the installer https://nodejs.org/en/download
 A system restart may be necessary.
 
+## Hardware
 
 Bluetooth Beacon
 --------------------
@@ -64,16 +65,19 @@ Dependencies
  onoff
  -------------
  Function: Library to access the GPIO ports on the Raspberry Pi.
+ 
+ node-beacon-scanner
+------------------
+Function: Parses the Bluetooth beacon packet data according to the iBeacon protocol.
+Configuration: iBeacon
 
+## Optional
 
 forever-service
 ----------------
 Function: ensures node (app.js) runs on startup.
 
-node-beacon-scanner
-------------------
-Function: Parses the Bluetooth beacon packet data according to the iBeacon protocol.
-Configuration: iBeacon
+
 
 
 Contributors
