@@ -49,9 +49,7 @@ Size: 10mm diameter, 2.7mm thick\
 Current draw: 5V @ 100mA\
 Weight: 0.9 gram\
 
-Prerequisites
-=============
-
+# Prerequisites
 ### noble
  Function: Enables Raspberry Pi to read surrounding bluetooth signals.
  See [[noble]](https://github.com/noble/noble) for installation help.
@@ -63,7 +61,6 @@ Prerequisites
 Function: Parses the Bluetooth beacon packet data.
 
 ---------------------------------
-
 # Optional
 ### forever-service
 Function: enables app.js to run on startup
