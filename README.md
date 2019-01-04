@@ -50,14 +50,15 @@ If not installed, download and run the node installer https://nodejs.org/en/down
 A system restart may be necessary.
 
 # Prerequisites
-### noble
+### noble `npm install noble`
  Function: Enables Raspberry Pi to read surrounding bluetooth signals.
  See [[noble]](https://github.com/noble/noble) for installation help.
 
-### onoff
+### onoff `npm install onoff`
  Function: GPIO access for Raspberry Pi.
 
-### node-beacon-scanner
+### node-beacon-scanner 
+Included in repository node_module
 Function: Parses the Bluetooth beacon packet data.
 
 ---------------------------------
