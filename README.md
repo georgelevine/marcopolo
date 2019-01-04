@@ -14,16 +14,16 @@ Download Repository
 git clone https://github.com/georgelevine/marcopolo.git
 ```
 
-Check whether Node.js is installed
+Check whether Node.js and npm package manager are installed. 
 ```
 node -v
 ```
-
-Checks whether npm is installed
 ```
 npm -v
 ```
-==============
+If not installed, download amd run the installer https://nodejs.org/en/download/
+A system restart may be necessary.
+
 
 Bluetooth Beacon
 --------------------
