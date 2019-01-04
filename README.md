@@ -65,11 +65,10 @@ Function: Parses the Bluetooth beacon packet data.
 ---------------------------------
 
 # Optional
-
 ### forever-service
 Function: enables app.js to run on startup
 
--------------------------------
+====================================
 
 
 # Contributors
