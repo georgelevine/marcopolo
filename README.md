@@ -9,12 +9,14 @@ I was driven to help visually impared students quickly and independently find an
 
 ## Installation
 
-  Download Repository
-```Bash
-git clone https://github.com/georgelevine/marcopolo.git
+Download Repository
+`git clone https://github.com/georgelevine/marcopolo.git`
 
-```
-Components
+Checks whether Node.js is installed
+`node -v`
+
+Checks whether npm is installed
+`npm -v`
 ==============
 
 Bluetooth Beacon
