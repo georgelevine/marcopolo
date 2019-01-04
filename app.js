@@ -27,7 +27,7 @@ var gpio = require('onoff').Gpio
 
 //Sends signal to switch the relay on for one second.
 //This in effect simulates pressing the button on the
-//activates GPIO 
+//activates GPIO
 function pressButton() {
   //press button for n seconds
   remote.writeSync(1);
@@ -51,12 +51,12 @@ function activateGate() {
   setTimeout(function() {
     gateState = 'STOPPED';
  // Line 77 was tested as an alternate grace period between alerts for when peripheral.rssi < RSSI_THRESHOLD
-//  }, 3500); 7000 seems to work well and acts like a buffer. 
+//  }, 3500); 7000 seems to work well and acts like a buffer.
     }, 7000);
 }
 
 
-//Main noble listener. When a BLE is detected we check if it is 
+//Main noble listener. When a BLE is detected we check if it is
 //within an acceptable range. The we check whether we have detected
 //it previously. If not, we check if it is our beacon (Marco_4)
 //and activate the vibration motor.
@@ -80,11 +80,11 @@ noble.on('discover', function(peripheral) {
     //if it is detected activate the vibration motor
     if (peripheral.advertisement.localName == 'Marco_4') {
       console.log('Found...' +  peripheral.advertisement.localName + '  ' + peripheral.id + ' detected (RSSI: '+ peripheral.rssi + ')' + ' – ' + gateState + '– on ' + new Date());
-      
+
       //If the gate is not already moving, activate it
       if (gateState == 'STOPPED') {
         activateGate();
-      }  
+      }
     }
   }
 
