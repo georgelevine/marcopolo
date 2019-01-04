@@ -58,7 +58,7 @@ A system restart may be necessary.
  Function: GPIO access for Raspberry Pi.
 
 ### node-beacon-scanner 
-Included in repository node_module
+Included in repository node_module\
 Function: Parses the Bluetooth beacon packet data.
 
 ---------------------------------
