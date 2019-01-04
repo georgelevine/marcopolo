@@ -30,7 +30,8 @@ Bluetooth Beacon
 --------------------
 Hardware: Arduino IDE Adafruit Feather nRF52 Bluefruit LE\
 Bootloader: s132 6.1.1 r0, Level 0 (Release)\
-Programmer: Arduino as ISP
+Programmer: Arduino as ISP\
+
 Wearable Reciever
 ----------------
 Hardware: Raspberry Pi 3 Model B+
