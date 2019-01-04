@@ -30,28 +30,21 @@ Bluetooth Beacon
 --------------------
 Hardware: Arduino IDE Adafruit Feather nRF52 Bluefruit LE\
 Bootloader: s132 6.1.1 r0, Level 0 (Release)\
-Programmer: Arduino as ISP\
+Programmer: Arduino as ISP
 
 Wearable Reciever
 ----------------
-Hardware: Raspberry Pi 3 Model B+
-
-OS: Raspian 4.14.79-v7+
-
+Hardware: Raspberry Pi 3 Model B+\
+OS: Raspian 4.14.79-v7+\
 Memory: SanDisk Class 10 micro-SD card (16GB)
 
 Vibration Mechanism
 ----------------
-Hardware: Mini Motor Disk
-
-Location: Wearable Reciever GPIO pin 17
-
-Size: 10mm diameter, 2.7mm thick
-
-Current draw: 5V @ 100mA
-
-Weight: 0.9 gram
-
+Hardware: Mini Motor Disk\
+Location: Wearable Reciever GPIO pin 17\
+Size: 10mm diameter, 2.7mm thick\
+Current draw: 5V @ 100mA\
+Weight: 0.9 gram\
 
 Dependencies
 =============
@@ -94,5 +87,4 @@ A special thanks to [@cruepprich](https://github.com/cruepprich/gateOpener)
 
 ### License
 [MIT](./LICENSE)
-
 [travis-image]: https://img.shields.io/travis/image-js/image-js/master.svg?style=flat-square
