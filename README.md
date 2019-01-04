@@ -24,65 +24,66 @@ npm -v
 If not installed, download and run the installer https://nodejs.org/en/download
 A system restart may be necessary.
 
+# Hardware
 
 Bluetooth Beacon
 --------------------
-Hardware: Arduino IDE Adafruit Feather nRF52 Bluefruit LE
-
-Bootloader: s132 6.1.1 r0, Level 0 (Release)
-
+Hardware: Arduino IDE Adafruit Feather nRF52 Bluefruit LE\
+Bootloader: s132 6.1.1 r0, Level 0 (Release)\
 Programmer: Arduino as ISP
 
 Wearable Reciever
 ----------------
-Hardware: Raspberry Pi 3 Model B+
-
-OS: Raspian 4.14.79-v7+
-
+Hardware: Raspberry Pi 3 Model B+\
+OS: Raspian 4.14.79-v7+\
 Memory: SanDisk Class 10 micro-SD card (16GB)
 
 Vibration Mechanism
 ----------------
-Hardware: Mini Motor Disk
-
-Location: Wearable Reciever GPIO pin 17
-
-Size: 10mm diameter, 2.7mm thick
-
-Current draw: 5V @ 100mA
-
-Weight: 0.9 gram
-
+Hardware: Mini Motor Disk\
+Location: Wearable Reciever GPIO pin 17\
+Size: 10mm diameter, 2.7mm thick\
+Current draw: 5V @ 100mA\
+Weight: 0.9 gram\
 
 Dependencies
 =============
 
- noble
+# ![noble](assets/noble-logo.png)
  --------------------
  Function: Enables Raspberry Pi to read surrounding bluetooth signals.
 
  onoff
  -------------
- Function: Library to access the GPIO ports on the Raspberry Pi.
-
-
-forever-service
-----------------
-Function: ensures node (app.js) runs on startup.
-
-node-beacon-scanner
+ Function: Library to access the GPIO ports on the Rtoaspberry Pi.
+ 
+ node-beacon-scanner
 ------------------
 Function: Parses the Bluetooth beacon packet data according to the iBeacon protocol.
 Configuration: iBeacon
 
+# Optional
 
-Contributors
-=======================
+forever-service
+----------------
+Function: enables app.js to run on startup
+
+
+
+
+# Contributors
+
 Developers: George Levine, Brandon Neff, Zach Rowell
 
 Faculty Advisor:  Austin Purves, Ph.D.
 
 Funding : Manhattanville College
+
+# Credits
+
+A special thanks to [@cruepprich](https://github.com/cruepprich/gateOpener)     
+
+You showed us that bluetooth low energy has pratical applications, and that the raspberry pi can indeed have an interface to control bluetooth and GPIO pins.
 
 ### License
 [MIT](./LICENSE)
