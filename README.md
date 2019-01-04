@@ -34,7 +34,7 @@ Weight: 0.9 gram
 
 ## Installation – (Windows, Linux Only)
 
-Download Git Repository
+Clone Git Repository
 ```Bash
 git clone https://github.com/georgelevine/marcopolo.git
 ```
