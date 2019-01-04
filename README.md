@@ -54,7 +54,8 @@ Prerequisites
 
 ### noble
 
- Function: Enables Raspberry Pi to read surrounding bluetooth signals.
+ Function: Enables Raspberry Pi to read surrounding bluetooth signals.\
+ installation: [noble](https://github.com/noble/noble)
 
 onoff
 -------------
