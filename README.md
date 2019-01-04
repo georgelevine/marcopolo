@@ -1,4 +1,4 @@
-# Marco Polo
+# The Marco Polo Project
 ![build status][travis-image]
 
 
