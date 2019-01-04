@@ -7,23 +7,6 @@
 As an acessability advocate, programmer, and student,
 I was driven to help visually impared students quickly and independently find any classroom within campus academic buildings. The Center for Student Accomodations at Manhattanville College in Purchase, NY was overwhelmed with travel aid requests and was in need of either hiring additional aides or finding an alternative solution to the issue at hand. I was knowledgable about bluetooth low energy beacons. I led the hardware and software development to build a working navigational aid prototype that incorporated varying hardware systems, programming languages, and communication protocols. Final testing was conducted by a visually impared student. The system is accurate within a 1 meter radius of any programmed classroom.
 
-## Installation – (Windows, Linux Only)
-
-Download Git Repository
-```Bash
-git clone https://github.com/georgelevine/marcopolo.git
-```
-
-Check whether node.js and npm package manager are installed.
-```
-node -v
-```
-```
-npm -v
-```
-If not installed, download and run the node installer https://nodejs.org/en/download  
-A system restart may be necessary.
-
 # Hardware
 
 Beacon
@@ -49,10 +32,22 @@ Size: 10mm diameter, 2.7mm thick\
 Current draw: 5V @ 100mA\
 Weight: 0.9 gram
 
-# Flashing Sketch
+## Installation – (Windows, Linux Only)
 
-Environment: Arduino IDE (https://www.arduino.cc/en/Main/Software)  
-Add `https://www.adafruit.com/package_adafruit_index.json` as an Additional Board Manager URL
+Download Git Repository
+```Bash
+git clone https://github.com/georgelevine/marcopolo.git
+```
+
+Check whether node.js and npm package manager are installed.
+```
+node -v
+```
+```
+npm -v
+```
+If not installed, download and run the node installer https://nodejs.org/en/download  
+A system restart may be necessary.
 
 # Prerequisites
 ### noble
@@ -69,6 +64,12 @@ Function: Parses the Bluetooth beacon packet data.
 # Optional
 ### forever-service
 Function: enables app.js to run on startup
+# Flashing Sketch
+
+Environment: Arduino IDE (https://www.arduino.cc/en/Main/Software)  
+Add `https://www.adafruit.com/package_adafruit_index.json` as an Additional Board Manager URL
+
+
 
 
 
