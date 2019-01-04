@@ -49,7 +49,7 @@ Weight: 0.9 gram\
 Dependencies
 =============
 
- [noble](https://github.com/noble/noble)
+ [noble](https://github.com/noble/noble/noble/assets/noble-logo.png)
  --------------------
  Function: Enables Raspberry Pi to read surrounding bluetooth signals.
 
