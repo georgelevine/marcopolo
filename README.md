@@ -10,7 +10,7 @@ I was driven to help visually impared students quickly and independently find an
 ## Installation
 
 ```Bash
-git@github.com:georgelevine/marcopolo.git
+git clone https://github.com/georgelevine/marcopolo.git
 
 ```
 Components
