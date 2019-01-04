@@ -7,7 +7,7 @@
 As an acessability advocate, programmer, and student,
 I was driven to help visually impared students quickly and independently find any classroom within campus academic buildings. The Center for Student Accomodations at Manhattanville College in Purchase, NY was overwhelmed with travel aid requests and was in need of either hiring additional aides or finding an alternative solution to the issue at hand. I was knowledgable about bluetooth low energy beacons. I led the hardware and software development to build a working navigational aid prototype that incorporated varying hardware systems, programming languages, and communication protocols. Final testing was conducted by a visually impared student. The system is accurate within a 1 meter radius of any programmed classroom.
 
-## Installation – Windowx and Linux Only
+## Installation – (Windows and Linux Only)
 
 Download Git Repository
 ```Bash
@@ -56,7 +56,7 @@ Dependencies
  onoff
  -------------
  Function: Library to access the GPIO ports on the Rtoaspberry Pi.
- 
+
  node-beacon-scanner
 ------------------
 Function: Parses the Bluetooth beacon packet data according to the iBeacon protocol.
@@ -81,7 +81,7 @@ Funding : Manhattanville College
 
 # Credits
 
-A special thanks to [@cruepprich](https://github.com/cruepprich/gateOpener)     
+A special thanks to [@cruepprich](https://github.com/cruepprich/gateOpener)
 
 You showed us that bluetooth low energy has pratical applications, and that the raspberry pi can indeed have an interface to control bluetooth and GPIO pins.
 
