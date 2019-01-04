@@ -87,4 +87,5 @@ A special thanks to [@cruepprich](https://github.com/cruepprich/gateOpener)
 
 ### License
 [MIT](./LICENSE)
+
 [travis-image]: https://img.shields.io/travis/image-js/image-js/master.svg?style=flat-square
