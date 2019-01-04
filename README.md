@@ -65,7 +65,7 @@ Function: Parses the Bluetooth beacon packet data.
 ### forever-service
 Function: enables app.js to run on startup
 
-====================================
+
 
 
 # Contributors
