@@ -87,8 +87,6 @@ A special thanks to [@cruepprich](https://github.com/cruepprich/gateOpener)
 You showed us that bluetooth low energy has pratical applications, and that the raspberry pi can indeed have an interface to control bluetooth and GPIO pins.
 
 ### License
-
-### License
-[GNU](./LICENSE)
+[MIT](./LICENSE)
 
 [travis-image]: https://img.shields.io/travis/image-js/image-js/master.svg?style=flat-square
