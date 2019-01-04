@@ -81,8 +81,8 @@ Funding : Manhattanville College
 
 ## Credits
 
-A special thanks to [@cruepprich](https://github.com/cruepprich/gateOpener) \ 
- you showed us that bluetooth low energy has pratical applications, and\
+A special thanks to [@cruepprich](https://github.com/cruepprich/gateOpener) 
+   you showed us that bluetooth low energy has pratical applications, and\
  that the raspberry pi can indeed have an interface to control bluetooth and GPIO pins.
 
 ### License
