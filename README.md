@@ -21,7 +21,7 @@ node -v
 ```
 npm -v
 ```
-If not installed, download and run the installer https://nodejs.org/en/download
+If not installed, download and run the node installer https://nodejs.org/en/download
 A system restart may be necessary.
 
 # Hardware
