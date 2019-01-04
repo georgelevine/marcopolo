@@ -35,10 +35,12 @@ Weight: 0.9 gram
 ## Installation – (Windows, Linux Only)
 
 Clone Git Repository
+
+
 ```Bash
 git clone https://github.com/georgelevine/marcopolo.git
 ```
-
+now switch your working directory
 Check whether node.js and npm package manager are installed.
 ```
 node -v
