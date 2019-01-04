@@ -65,10 +65,9 @@ Function: Parses the Bluetooth beacon packet data.
 ### forever-service
 Function: enables app.js to run on startup
 
++++++++++++++++++++
 
-
-
-# Contributors
+### Contributors
 
 Developers: George Levine, Brandon Neff, Zach Rowell
 
@@ -83,6 +82,7 @@ A special thanks to [@cruepprich](https://github.com/cruepprich/gateOpener)
 You showed us that bluetooth low energy has pratical applications, and that the raspberry pi can indeed have an interface to control bluetooth and GPIO pins.
 
 ### License
+
 [MIT](./LICENSE)
 
 [travis-image]: https://img.shields.io/travis/image-js/image-js/master.svg?style=flat-square
