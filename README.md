@@ -9,19 +9,19 @@ I was driven to help visually impared students quickly and independently find an
 
 ## Installation
 
-Download Repository
+Download Git Repository
 ```Bash
 git clone https://github.com/georgelevine/marcopolo.git
 ```
 
-Check whether Node.js and npm package manager are installed. 
+Check whether node.js and npm package manager are installed. 
 ```
 node -v
 ```
 ```
 npm -v
 ```
-If not installed, download amd run the installer https://nodejs.org/en/download/
+If not installed, download and run the installer https://nodejs.org/en/download
 A system restart may be necessary.
 
 
