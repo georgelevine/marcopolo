@@ -52,7 +52,7 @@ Weight: 0.9 gram\
 # Flashing Sketch
 
 Environment: Arduino IDE (https://www.arduino.cc/en/Main/Software)   
-Bluefruit Driver: Add `https://www.adafruit.com/package_adafruit_index.json` as an Additional Board Manager URL
+Bluefruit Driver: Add`https://www.adafruit.com/package_adafruit_index.json`as an Additional Board Manager URL
 
 # Prerequisites
 ### noble
