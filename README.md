@@ -49,6 +49,11 @@ Size: 10mm diameter, 2.7mm thick\
 Current draw: 5V @ 100mA\
 Weight: 0.9 gram\
 
+# Flashing Sketch
+
+[Download Arduino IDE] (https://www.arduino.cc/en/Main/Software)\
+Driver: `Add `(https://www.adafruit.com/package_adafruit_index.json as an 'Additional Board Manager URL)' (see image below)`
+
 # Prerequisites
 ### noble
  Function: Enables Raspberry Pi to read surrounding bluetooth signals.
