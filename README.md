@@ -88,6 +88,6 @@ You showed us that bluetooth low energy has pratical applications, and that the 
 
 ### License
 
-[license](gpl-3.0) 
+GPL-3.0
 
 [travis-image]: https://img.shields.io/travis/image-js/image-js/master.svg?style=flat-square
