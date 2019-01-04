@@ -40,7 +40,7 @@ Functon: Gateway Reciever\
 OS: Raspian 4.14.79-v7+\
 Memory: SanDisk Class 10 micro-SD card (16GB)
 
-Vibration
+Feedback
 ----------------
 Hardware: Mini Motor Disk\
 Function: Mechanical User Alert 
