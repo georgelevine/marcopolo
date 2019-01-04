@@ -53,7 +53,7 @@ Prerequisites
 =============
 
 ### noble
---------------------
+
  Function: Enables Raspberry Pi to read surrounding bluetooth signals.
 
 onoff
