@@ -71,7 +71,7 @@ Dependencies
 Function: Parses the Bluetooth beacon packet data according to the iBeacon protocol.
 Configuration: iBeacon
 
-## Optional
+# Optional
 
 forever-service
 ----------------
