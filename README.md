@@ -67,7 +67,7 @@ Function: enables app.js to run on startup
 
 
 
-### Contributors
+# Contributors
 
 Developers: George Levine, Brandon Neff, Zach Rowell
 
