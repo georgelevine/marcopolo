@@ -53,24 +53,20 @@ Prerequisites
 =============
 
 ### noble
-
- Function: Enables Raspberry Pi to read surrounding bluetooth signals.\
+ Function: Enables Raspberry Pi to read surrounding bluetooth signals.
  
  See [[noble]](https://github.com/noble/noble) for installation help.
-
 onoff
 -------------
  Function: GPIO access for Raspberry Pi.
 
-node-beacon-scanner
-------------------
+### node-beacon-scanner
 Function: Parses the Bluetooth beacon packet data according to the iBeacon protocol.
 Configuration: iBeacon
 
 # Optional
 
-forever-service
-----------------
+### forever-service
 Function: enables app.js to run on startup
 
 
@@ -91,6 +87,6 @@ A special thanks to [@cruepprich](https://github.com/cruepprich/gateOpener)
 You showed us that bluetooth low energy has pratical applications, and that the raspberry pi can indeed have an interface to control bluetooth and GPIO pins.
 
 ### License
-[MIT](./LICENSE)
+[gpl-3.0](./LICENSE)
 
 [travis-image]: https://img.shields.io/travis/image-js/image-js/master.svg?style=flat-square
