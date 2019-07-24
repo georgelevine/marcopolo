@@ -1,4 +1,4 @@
-# The Marco Polo Project
+# The Marco Polo Project: George Levine
 ![build status][travis-image]
 
 
